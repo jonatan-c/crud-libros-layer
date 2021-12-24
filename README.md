@@ -2,7 +2,9 @@
 
 ### API Libros
 
-This is a project for a course about Developer Backend Node JS with layer whit FUNCTIONS.
+This is a project for practice about Developer Backend Node JS with layers with FUNCTIONS.
+Estructure of the project:
+Model --> DAO --> Service --> DTO --> Controller --> Routes --> API REST
 
 ## Area
 
