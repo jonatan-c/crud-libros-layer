@@ -35,18 +35,21 @@ Model --> DAO --> Service --> DTO --> Controller --> Routes --> API REST
 npm install
 ```
 
-```
+ 
 - Create a file `.env` in the directory and put and complete:
+ 
 ```
-
 DB_MONGO="your db"
 
 SECRETA=palabrasecreta
-
 ```
+
+
 - Run the project
 
-`npm run dev`
+```
+npm run dev
+```
 
 
 ## <a name="technologies"></a>Technologies:
